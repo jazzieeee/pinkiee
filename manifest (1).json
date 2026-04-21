@@ -1,0 +1,20 @@
+{
+  "name": "Pinkis App",
+  "short_name": "Pinkis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fce4ec",
+  "theme_color": "#e91e8c",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/e91e8c/ffffff?text=P",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/e91e8c/ffffff?text=P",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
